@@ -2,7 +2,7 @@ Source: teapot
 Section: graphics
 Priority: optional
 Maintainer: lzq <2717701280@qq.com>
-Build-Depends: debhelper (>= 9), qt5-qmake, qtbase5-dev, libqt5opengl5-dev, libgl1-mesa-dev, libglu1-mesa-dev
+Build-Depends: debhelper (>= 9), qt5-qmake, qtbase5-dev
 Standards-Version: 4.1.2
 Homepage: https://github.com/users/upsenot/projects/1/views/1
 
